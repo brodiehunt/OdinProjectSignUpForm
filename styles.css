@@ -97,12 +97,6 @@ body {
   border: 2px solid blue;
 }
 
-.form-input:invalid {
-  background-color: ivory;
-  border: none;
-  outline: 2px solid red;
-}
-
 label {
   /* padding-bottom: 0.2em; */
 }
