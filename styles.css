@@ -15,7 +15,7 @@ body {
 
 .banner-img-container {
   position: relative;
-  background-image: url(/img/banner-img.jpg);
+  background-image: url(img/banner-img.jpg);
   background-position: center;
   background-size: cover;
   height: 40vh;
